@@ -1,4 +1,6 @@
 # movie_recommendation_system
+For easy view, see notebook here: https://nbviewer.org/github/hiladar0/movie_recommendation_system/blob/main/notebook.ipynb
+
 * Over the last few years I have been using the IMDb app to track and rank the movies I'm watching. After collecting and rating more than 500 movies, I thought it would be interesting to use this data to recommend movies for me.
 * In this notebook, I use MovieLens 20M Dataset and my own personal ranking to create a recommendtion engine (and recommend movies for myself:) )
 
